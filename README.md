@@ -35,32 +35,29 @@
 ![screenshot](https://github.com/Jesusecm2/InventarioDelanni/blob/master/Inversiones%20Delanni%202005%20C.A%202025-03-16%2021-39-35%20(1).gif)
 
 ## Características
-
-* HTTPClient REST (JSON)
-  - Conectividad por HTTP
-* JavaFX
-  - JavaFX Gráficos
-  - JavaFX CSS
-  - Visual totalmente responsiva
-* Descarga de Archivos
+* SpringBoot 5
+* Java JPA
+* File Clients
+* Jasper Reports
   - Descargar de archivos desde el backend
   - Control de archivos Properties
 * Seguridad
   - Cifrado de login
   - Controlador de Authenticación JWT
+
  
 
 ## Descarga
 
-Proyecto realizado en NetBeansProject Versión 16
+Proyecto realizado en Spring Workspace
 
 ## Creditos
 
 Este software utiliza los siguientes paquetes de código abierto:
 
-- [JavaFX](https://openjfx.io)
-- [Scene Builder](https://gluonhq.com/products/scene-builder/)
-- [Netbeans](https://netbeans.apache.org/front/main/index.html)
+- [Spring](Spring.io)
+- [MySQL](https://dev.mysql.com)
+- [Jasper Report](https://www.jaspersoft.com)
 - [JacksonCore](https://github.com/FasterXML/jackson-core)
 
 ## Related
