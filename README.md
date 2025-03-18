@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">Front de aplicación y proyecto Delanni 2005 C.A <a href="https://www.linkedin.com/in/jesús-cedeño-b47b031b4/" target="_blank">Jesus Cedeño</a>.</h4>
+<h4 align="center">Microservicio de aplicación y proyecto Delanni 2005 C.A <a href="https://www.linkedin.com/in/jesús-cedeño-b47b031b4/" target="_blank">Jesus Cedeño</a>.</h4>
 
 <!--<p align="center">
   <a href="">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="#Características">Características</a> •
-  <a href="#how-to-use">¿Como Utilizar?</a> •
+  <a href="#Descarga">Descarga</a> •
   <a href="#Creditos">Creditos</a><!-- •
   <a href="#Creditos">Creditos</a> •
   <a href="#related">Related</a> •
