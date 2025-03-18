@@ -32,9 +32,11 @@
   <a href="#license">License</a>-->
 </p>
 
+![screenshot](https://github.com/Jesusecm2/InventarioDelanniMicroservicio/blob/main/captura.png)
 ![screenshot](https://github.com/Jesusecm2/InventarioDelanni/blob/master/Inversiones%20Delanni%202005%20C.A%202025-03-16%2021-39-35%20(1).gif)
 
 ## Características
+En este repositorio se encuentra el microservicio back encargado de controladr el frontend de los inventarios-
 * SpringBoot 5
 * Java JPA
 * File Clients
